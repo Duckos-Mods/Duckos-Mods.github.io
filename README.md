@@ -1,1 +1,1 @@
-# Duckos Mods and Hachudens Add-ons for minecraft bedrock
+# This is where the addons should be.
